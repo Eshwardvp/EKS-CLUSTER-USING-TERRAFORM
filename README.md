@@ -50,3 +50,7 @@ kubectl version --client
 aws eks update-kubeconfig --region region-code --name my-cluster
 
 (eg: aws eks update-kubeconfig --region ap-southeast-1 --name poc-eks)
+
+
+Install Grafana & Prometheus in the machine
+
